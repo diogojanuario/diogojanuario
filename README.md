@@ -7,7 +7,7 @@
 
 
 ### About me
-Sou desenvolver senior mobile especializado em Flutter. Apaixonado por tecnologia. 
+Sou desenvolver pleno mobile especializado em Flutter. Apaixonado por tecnologia. 
 Sempre com o propósito de entregar um resultado incrível na aparencia e no desempenho dos Apps.
 
 
